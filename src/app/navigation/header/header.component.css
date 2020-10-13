@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover,a:active{
+    color: lightskyblue;
+}
+
+.navigation-items{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+}
+
+.nav-title {
+    display: inline-block;
+    padding-left: 6px;
+}
+
